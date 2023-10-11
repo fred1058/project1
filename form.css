@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 10px;
+    background-color: chartreuse;
+}
